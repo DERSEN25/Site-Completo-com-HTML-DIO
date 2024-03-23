@@ -1,0 +1,111 @@
+::after,
+::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+html, body {
+    margin: 0;
+    background: linear-gradient(-120deg, #481875, #11031f);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+.logo-imagem{
+    width: 390px;
+    height: 250px;
+    margin-right: 110px;
+    margin-top: 2px;
+    
+    
+    
+}
+
+.titulo-head{
+    display:flex;
+    width: 850%;
+    height: 50%;
+    margin-left: 23%;
+    margin-top: 80px;
+    font-size: 70px;
+    
+
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 200%;
+}
+.menu {
+    display: flex;
+    margin-left: -70%; 
+    padding: 10px 20px 0px;
+}
+.navegacao{
+    margin-top: 100px;
+    width: 200px;
+    font-size: 20px;
+    list-style-type: none;
+    display: inline;
+    float: left;
+    padding: 20px;
+    
+}
+.nav{
+    color: #f1f1f1;
+    text-decoration:none;
+}
+.lista{
+    margin: 30px;
+    margin-left: 20px;
+    height: 60px;
+      
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    width: 147%;
+    color: white;
+
+    
+    
+}
+.content {
+    min-height: 300px;
+    width: 144%;
+    padding: 20px;
+    color: white;
+}
+
+
+.footer {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0);
+    min-height: 500px;
+    width: 147%;
+    color: white;
+
+}
+
+.contato{
+    margin-top: 10%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    justify-content: center;
+
+}

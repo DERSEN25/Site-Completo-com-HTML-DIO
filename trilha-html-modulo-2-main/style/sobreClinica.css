@@ -1,0 +1,29 @@
+.texto-principal{
+    margin-left: 30%;
+    font-size: 50px;
+    margin-top: 2px;
+   
+}
+.texto-informativo{
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.lista{
+    font-size: 21px;
+    margin-left: 100px;
+    margin-top: 15px;
+    padding: 2px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+}
+.informacoes{
+    display: flex;
+    font-size: 35px;
+    margin-bottom: -150px;
+    margin-top: 120px;
+    margin-left: 30%;
+    font-weight: bold;
+}

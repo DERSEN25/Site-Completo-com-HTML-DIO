@@ -1,0 +1,59 @@
+h1{
+    margin-left: 35%;
+    font-size: 35px;
+    margin-bottom: 2%;
+
+}
+
+label{
+    font-size: 35px;
+    margin-right: 80%;
+    font-style: oblique;
+ 
+}
+
+
+
+
+.option{
+    margin-left: 150px;
+    margin-top: 50px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.logo-image{
+    width: 280px;
+    height: 250px;
+    margin-right: 110px;
+    margin-top: 2px;
+    margin-left: 0;
+}
+
+
+
+table{
+    text-align: center;
+    font-family: Montserrat, Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    border: 2px solid;
+    border-radius: 2px;
+    color: black;
+    margin-left: 10%;
+    margin-top: 5%;
+    height: 150px;
+    font-style: oblique;
+    margin-bottom: -150px;
+
+
+
+}
+th{
+    background-color: black;
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: lightgray; 
+}
